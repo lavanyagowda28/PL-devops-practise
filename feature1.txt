@@ -1,2 +1,4 @@
 this is my feature1 file craeted a new branch
 hello new file
+hello new file
+hello new file2
